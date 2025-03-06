@@ -1,3 +1,24 @@
 O serviço de bot do Azure é uma plataforma baseada em nuvem.
 A nova tecnologia tem a capacidade de integrar com várias plataformas de IA.
 A empresa está implementando soluções de AI Language para melhorar a experiência do cliente.
+
+## Possíveis Insights
+
+A partir da análise das sentenças, você pode:
+
+- Observar como a IA pode identificar automaticamente o idioma das frases.
+- Verificar como ela pode distinguir entre sentimentos positivos e negativos.
+- Analisar as entidades e ver como elas são extraídas da sentença.
+
+## Possibilidades de Expansão
+
+Algumas ideias para expandir este projeto incluem:
+
+- Integrar o sistema com plataformas de chatbot, como o Bot Service do Azure.
+- Criar uma interface de usuário (UI) para que as pessoas possam enviar suas próprias frases para análise.
+- Aplicar análise mais profunda de sentimentos, identificando emoções como felicidade, tristeza, raiva, etc.
+
+## Conclusão
+
+Este projeto demonstra uma implementação prática da análise de sentenças usando IA, com foco em entender o funcionamento básico de ferramentas de processamento de linguagem natural (PNL) e como elas podem ser aplicadas em diversas áreas.
+
